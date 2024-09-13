@@ -4,11 +4,11 @@ In this repository, we open source a system called CrowHITL, a novel human-in-th
 
 # Requirements
 ```
-* PyTorch >= 1.0.0
-* Python 3.6+
-* Conda (suggested for building environment etc)
-* tensorboardx==1.9
-* tensorflow==1.14.0 (non-gpu version will do, only needed for tensorboard)
-* matplotlib==3.3.4 （draw training results）
+* dash==1.0.2
+* dash-bootstrap-components==1.2.1
+* dash-daq==0.1.7
+* gunicorn>=19.9.0
+* numpy>=1.16.2
+* pandas>=0.24.2
 ```
 
